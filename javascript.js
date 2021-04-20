@@ -5,3 +5,7 @@ function Schwepid (){
 function Hello (){
     return "Hello"
 }
+
+function Bye (){
+    return "Bye"
+}
